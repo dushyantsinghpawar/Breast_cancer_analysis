@@ -45,7 +45,7 @@ The Training dataset consists of 398 training samples and 167 testing samples, e
 The project results, including model performances and visualizations, can be found in the notebook.
 
 ## Acknowledgments
-- This project is part of the [Course Name] at [Your University Name].
-- The dataset was graciously provided by [Professor Name], who also serves as the instructor for the course.
+- This project is part of the Machine Learning Course at UNCCharlotte.
+- The dataset was graciously provided by Dr. Hongfei Xue, who also serves as the instructor for the course.
 
 Feel free to contribute, report issues, or provide feedback. Happy coding!

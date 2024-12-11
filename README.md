@@ -31,10 +31,6 @@ The Training dataset consists of 398 training samples and 167 testing samples, e
 ## Usage
 - Execute the code in a sequential manner, following the instructions in each section.
 - Ensure Python 3 is installed.
-- Install required Python packages using:
-  ```
-  pip install -r requirements.txt
-  ```
 
 ## File Descriptions
 - `train.csv`: Training dataset.
